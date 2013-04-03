@@ -1,4 +1,8 @@
 google-webfonts-for-canvas
 ==========================
 
-Redirect to the new repo name
+Please see the new location and name for this plugin:
+
+google-webfonts-for-woo-framework
+
+<https://github.com/academe/google-webfonts-for-woo-framework>
